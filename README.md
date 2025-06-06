@@ -122,5 +122,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-> Made with ❤️ by [Virender Prasad](https://github.com/Virenishere)
+> Made with 💖 by [Virender Prasad](https://github.com/Virenishere)
 
